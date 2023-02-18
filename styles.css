@@ -1,0 +1,50 @@
+body {
+    box-sizing: border-box;
+    height: 100vh;
+    background-color:#d5e1ef;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    font-family: 'Akaya Kanadaka', cursive;
+    font-family: 'Outfit', sans-serif;
+}
+
+
+div {
+    background-color: white;
+    width: 320px;
+    height: 497px;
+    text-align: center;
+    margin: auto;
+    padding: 16px;
+    border-radius: 20px;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+h1 {
+    font-family: outfit; 
+    font-size: 22px;
+    color:#1F314F;
+    padding: 0px 16px 0px 16px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28px;
+}
+
+p {
+    font-family: outfit; 
+    color: #7D889E;
+    padding: 0px 16px 0px 16px;
+    margin: 0 auto;
+    width: 256px;
+    height: 57px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+    letter-spacing: 0.1875px
+}
+
